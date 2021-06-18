@@ -3,11 +3,8 @@
 * Antonio Claudio Lopes 
 
 ## Integrantes:
-* Dabla Arévalo Ferreira
-* Gabrielle Brito Cadurim
-* Larissa Alves da Silva
-* Mateus Soares da Silva
-* Vinicius Miranda Lopes Schulz
+* Bruna Nyulas
+* Danieli Silva dos Santos
 
 ## Avaliação final - Trabalho em grupo
 ### Decrição
